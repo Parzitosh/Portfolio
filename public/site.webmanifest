@@ -1,0 +1,15 @@
+﻿{
+  "name": "Paritosh Jamwal Portfolio",
+  "short_name": "Parzitosh",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060816",
+  "theme_color": "#060816",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
