@@ -38,8 +38,6 @@ VITE_SITE_URL=https://your-vercel-domain.vercel.app
 4. Set `VITE_SITE_URL` to your final deployed domain, for example `https://your-project.vercel.app`.
 5. Deploy.
 
-The included `vercel.json` keeps SPA routes working on refresh.
-
 ## SEO and launch files
 
 - `public/site.webmanifest`
